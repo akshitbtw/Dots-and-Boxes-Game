@@ -1155,24 +1155,24 @@ void board_design(void)
     // UP
     setcolor(15);
     setfillstyle(SOLID_FILL,15);
-    line(745,410,735,430); // /
-    line(745,410,755,430); // \ //
-    line(735,430,755,430); // _
+    line(745,410,735,430);
+    line(745,410,755,430);
+    line(735,430,755,430);
     floodfill(743,420,15);
     // DOWN
-    line(735,440,755,440); // _
-    line(735,440,745,460); // \ //
-    line(755,440,745,460); // /
+    line(735,440,755,440);
+    line(735,440,745,460);
+    line(755,440,745,460);
     floodfill(743,450,15);
     // LEFT
-    line(725,440,725,460); // |
-    line(725,440,705,450); // /
-    line(725,460,705,450); // \ //
+    line(725,440,725,460);
+    line(725,440,705,450);
+    line(725,460,705,450);
     floodfill(715,450,15);
     // RIGHT
-    line(765,440,765,460); // |
-    line(765,440,785,450); // \ //
-    line(765,460,785,450); // /
+    line(765,440,765,460);
+    line(765,440,785,450);
+    line(765,460,785,450);
     floodfill(775,450,15);
 
     // Controls
@@ -1929,7 +1929,7 @@ void main_menu(void)
                 {
                     cx+=10;
                     cy+=70;
-                    outtextxy(cx,cy, ">"); // 371 340 //controls
+                    outtextxy(cx,cy, ">"); //controls
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1937,7 +1937,7 @@ void main_menu(void)
                 {
                     cx-=190;
                     cy+=70;
-                    outtextxy(cx,cy,">"); // 181 410 //recently
+                    outtextxy(cx,cy,">"); //recently
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1945,7 +1945,7 @@ void main_menu(void)
                 {
                     cx+=100; //240
                     cy+=70;
-                    outtextxy(cx,cy,">"); // 281 480 //acknowledgement
+                    outtextxy(cx,cy,">"); //acknowledgement
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1953,7 +1953,7 @@ void main_menu(void)
                 {
                     cx+=140; 
                     cy+=70;
-                    outtextxy(cx,cy,">"); // 421 550 //exit
+                    outtextxy(cx,cy,">"); //exit
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1967,7 +1967,7 @@ void main_menu(void)
                 {
                     cx-=10;
                     cy-=70;
-                    outtextxy(cx,cy,">"); // 201 410
+                    outtextxy(cx,cy,">");
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1975,7 +1975,7 @@ void main_menu(void)
                 {
                     cx+=190;
                     cy-=70;
-                    outtextxy(cx,cy,">"); // 421 480
+                    outtextxy(cx,cy,">");
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1983,7 +1983,7 @@ void main_menu(void)
                 {
                     cx-=100;
                     cy-=70;
-                    outtextxy(cx,cy,">"); // 391 480
+                    outtextxy(cx,cy,">");
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -1991,7 +1991,7 @@ void main_menu(void)
                 {
                     cx-=140; 
                     cy-=70;
-                    outtextxy(cx,cy,">"); // 421 550
+                    outtextxy(cx,cy,">");
                     moveto(cx,cy);
                     a=getx();   b=gety();
                 }
@@ -2024,13 +2024,7 @@ void main_menu(void)
                 {
                     exit(0);
                 }
-            }
-            /*else if(input!=80 || input!=72 || input!=13)
-            {
-                outtextxy(cx,cy,">");
-                outtextxy(x/2,y-100,"Invalid Key Pressed");
-            }*/    
-            
+            }            
         }
     }
 }
