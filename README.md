@@ -18,5 +18,11 @@ g++ $fileName -o $fileNameWithoutExt -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 
     
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1t3RZ2mxxkt9CkeGCZJeJ5RwIJ7go5ydh/view?usp=sharing)
+![1](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/6aed8bce-3e7e-4ea9-93bd-588f8f7e4068)
+![2](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/7c2855e5-65ee-47fc-bd4c-557bf90a4d53)
+![3](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/b6264472-a54b-4a92-817d-da28024f64e5)
+![4](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/220245e5-6418-45d3-91ac-a43b1ff069ba)
+![9](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/6c69875a-2625-4034-9a71-55c295a7bd48)
+![10](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/99f7d926-51a9-43e7-bc58-fbce02e46f46)
+
 
