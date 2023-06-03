@@ -18,5 +18,5 @@ g++ $fileName -o $fileNameWithoutExt -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1t3RZ2mxxkt9CkeGCZJeJ5RwIJ7go5ydh/view?usp=sharing)
 
