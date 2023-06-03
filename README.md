@@ -11,7 +11,7 @@ the lines (horizontally or vertically) to form boxes. The person to connect the 
 
 In order to run this game, you'll need the latest graphics.h header file & MingW Compiler.
 
-Following is the command to run the .c file
+Following is the command to build & run the .c file
 ```bash
 g++ $fileName -o $fileNameWithoutExt -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -Wno-write-strings && $dir$fileNameWithoutExt
 ```
