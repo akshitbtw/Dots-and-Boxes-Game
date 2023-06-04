@@ -1,5 +1,5 @@
 
-# Introduction
+## Introduction
 
 This is an implementation of the traditional pen and paper game, Dots and Boxes, written in the C programming language using C Graphics. The gameplay revolves around the objective of creating more boxes than the opponent in order to score higher points. There are no time limits during gameplay; the 2 players take turns connecting lines horizontally or vertically to form boxes. When a player successfully connects the fourth edge of a box, they claim that box by writing their initial inside it.
 
