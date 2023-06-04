@@ -7,7 +7,7 @@ of the opponent. There are no time limits during gameplay, all you have to do is
 the lines (horizontally or vertically) to form boxes. The person to connect the 4th edge will form a box and hence, his/her initial will be written inside the box.
 
 
-## Requirements
+## Pre-requisites
 
 In order to run this game, you'll need the latest graphics.h header file & MingW Compiler.
 
