@@ -16,9 +16,8 @@ g++ $fileName -o $fileNameWithoutExt -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 
 
 ![1](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/6aed8bce-3e7e-4ea9-93bd-588f8f7e4068)
 ![2](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/7c2855e5-65ee-47fc-bd4c-557bf90a4d53)
-![3](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/b6264472-a54b-4a92-817d-da28024f64e5)
+![3](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/dbf41d06-5bd4-444d-8149-d9809ce6c051)
 ![4](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/220245e5-6418-45d3-91ac-a43b1ff069ba)
-![9](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/6c69875a-2625-4034-9a71-55c295a7bd48)
-![10](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/99f7d926-51a9-43e7-bc58-fbce02e46f46)
-
-
+![5](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/6c69875a-2625-4034-9a71-55c295a7bd48)
+![6](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/99f7d926-51a9-43e7-bc58-fbce02e46f46)
+![7](https://github.com/akshitbtw/Dots-and-Boxes-Game/assets/83155183/9f8fbfde-0b62-4220-9808-c0ddd0c0b81d)
